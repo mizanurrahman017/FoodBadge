@@ -8,7 +8,7 @@ const Details = () => {
     {
       id: 1,
       title: "Healthy Food",
-      image: "/public/healty.jpg",
+      image: "/healty.jpg",
       foodType: "Vegetables & Fruits",
       quantity: "5kg",
       pickupTime: "3pm - 6pm",
@@ -34,7 +34,7 @@ const Details = () => {
      {
       id: 3,
       title: "Rice",
-      image: "/public/rise.jpg",
+      image: "/rise.jpg",
       foodType: "Rice",
       quantity: "2kg",
       pickupTime: " 4pm - 5pm",
@@ -47,7 +47,7 @@ const Details = () => {
      {
       id: 4,
       title: "Fast food",
-      image: "/public/fastfood.jpg",
+      image: "/fastfood.jpg",
       foodType: "Vegetables & Fruits",
       quantity: "10kg",
       pickupTime: "7pm-8pm",
