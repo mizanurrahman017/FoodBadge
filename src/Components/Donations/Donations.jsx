@@ -9,7 +9,7 @@ const Donations = () => {
       restaurant: "Mizanur Rahman",
       location: "Khulna, Bangladesh",
       status: "approved",
-      image: "/public/healty.jpg",
+      image: "/healty.jpg",
     },
     {
       id: 2,
@@ -17,7 +17,7 @@ const Donations = () => {
       restaurant: "Mizanur Rahman",
       location: "Sylhet, Bangladesh",
       status: "approved",
-      image: "/public/fastfood.jpg",
+      image: "/fastfood.jpg",
     },
     {
       id: 3,
@@ -25,7 +25,7 @@ const Donations = () => {
       restaurant: "Mizanur Rahman",
       location: "Sylhet, Bangladesh",
       status: "approved",
-      image: "/public/rise.jpg",
+      image: "/rise.jpg",
     },
     {
       id: 4,
@@ -33,7 +33,7 @@ const Donations = () => {
       restaurant: "Mizanur Rahman",
       location: "Dhaka, Bangladesh",
       status: "approved",
-      image: "/public/fastfood.jpg",
+      image: "/fastfood.jpg",
     },
   ];
 

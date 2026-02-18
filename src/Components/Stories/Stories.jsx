@@ -21,7 +21,7 @@ const Stories = () => {
                           hover:shadow-xl hover:bg-green-50 cursor-pointer">
             
             <img
-              src="/public/mamas.png"
+              src="/mamas.png"
               alt="Mama's Kitchen"
               className="w-20 h-20 rounded-full border-4 border-yellow-400"
             />
@@ -43,7 +43,7 @@ const Stories = () => {
                           hover:shadow-xl hover:bg-green-50 cursor-pointer">
             
             <img
-              src="/public/smile.jpg"
+              src="/smile.jpg"
               alt="SaveSmile Foundation"
               className="w-20 h-20 rounded-full border-4 border-green-500"
             />

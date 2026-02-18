@@ -4,6 +4,8 @@ import Root from '../Pages/Root/Root';
 import ErrorPage from '../Pages/Root/ErrorPage/ErrorPage';
 import Home from '../Pages/Root/Home/Home';
 import AllDonations from '../Pages/Root/AllDonations/AllDonations';
+import Dashboard from '../Pages/Root/Dashboard/Dashboard';
+import Login from '../Pages/Root/Login/Login';
 
 
 
@@ -21,8 +23,16 @@ import AllDonations from '../Pages/Root/AllDonations/AllDonations';
         {
           path:"donations",
           element:<AllDonations></AllDonations>
+        },
+        {
+          path:"dashboard",
+          element:<Dashboard></Dashboard>
+        },
+        {
+          path:"login",
+          element:<Login></Login>
         }
-      
+       
     ]
   },
 ]);

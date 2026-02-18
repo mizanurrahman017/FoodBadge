@@ -4,17 +4,17 @@ const slides = [
   {
     title: "Reduce Food Waste. Feed Communities.",
     desc: "Connecting restaurants with charities to create a hunger-free world.",
-    img: "/public/donation.jpg",
+    img: "/donation.jpg",
   },
   {
     title: "Share Surplus, Spread Smiles",
     desc: "Join hands to minimize waste and maximize impact.",
-    img: "/public/delivery.jpg",
+    img: "/delivery.jpg",
   },
   {
     title: "Every Meal Matters",
     desc: "Your small action can make a big difference.",
-    img: "/public/family.webp",
+    img: "/family.webp",
   },
 ];
 
